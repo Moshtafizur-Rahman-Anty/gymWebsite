@@ -7,7 +7,7 @@ Plugin Name: A Website For Gym - Contact
 Plugin URl:
 Description: Create a shortcode to display the location
 Version: 1.0
-Author: Bazlur Rahman Babul
+Author: Moshtafizur Rahman Anty
 Text Domain: gymtheme
 
 */
