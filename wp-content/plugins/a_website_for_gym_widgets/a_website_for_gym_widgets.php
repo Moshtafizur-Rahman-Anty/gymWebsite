@@ -7,7 +7,7 @@ Plugin Name: A Website For Gym - Widgets
 Plugin URl:
 Description: Adds a custom widget into wordpress
 Version: 1.0
-Author: BAzlur Rahman Babul
+Author: Moshtafzir Rahman Anty
 Text Domain: gymtheme
 
 */
